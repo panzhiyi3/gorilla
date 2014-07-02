@@ -66,3 +66,7 @@ Using Gorilla
 All of Gorilla's classes are contained in the `Gorilla` namespace. All classes and member functions use the `camelCase` notation, with the exception that class names the first letter is always captialised.
 
 To include Gorilla in your project, simply copy the two Gorilla files `Gorilla.cpp` and `Gorilla.h` into your project. Making sure you correctly include and link to Ogre. To increase compliation speed you may want to `#include` Gorilla in your static headers file.
+
+About this modified version
+=============
+In order to add Freetype font support
